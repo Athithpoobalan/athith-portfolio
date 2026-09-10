@@ -18,7 +18,7 @@ function App() {
       link: "File not found",
     },
     {
-      title: "Personal Portfolio",
+      title: "My Personal Portfolio",
       description:
         "A modern institute web application designed to present information and provide an attractive user experience.",
       tech: "HTML • CSS • JavaScript",
