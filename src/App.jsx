@@ -18,11 +18,11 @@ function App() {
       link: "File not found",
     },
     {
-      title: "Institute Web Application",
+      title: "Personal Portfolio",
       description:
         "A modern institute web application designed to present information and provide an attractive user experience.",
       tech: "HTML • CSS • JavaScript",
-      link: "Its ongoing",
+      link: "https://athithpoobalan.github.io/athith-portfolio/",
     },
     {
       title: "Travel Application",
